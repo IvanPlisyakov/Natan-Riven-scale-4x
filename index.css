@@ -4,7 +4,7 @@
 }
 
 .main {
-  transform: scale(1, 4);
+  transform: scale(1, 4) translate(0, 37.5%);
   position: relative;
   width: 3840px;
   height: 576px;
